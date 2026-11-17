@@ -1,0 +1,6 @@
+{
+  "name": "CartoReel Studio",
+  "description": "AI-powered 9:16 map animation video studio with voiceover sync, documentary motion presets, multi-language subtitles, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
